@@ -11,3 +11,9 @@
 - [The leading platform for local cloud development](https://github.com/localstack)
 - CIでの使い方を知りたい
 - どこかのタイミングで課金したい
+
+
+### goone
+- [goone finds N+1 query in go](https://github.com/masibw/goone)
+- GitHub Actionsもあるので精度次第では採用
+- golangci-lint の一部だと嬉しいが・・・
