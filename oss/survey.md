@@ -17,3 +17,8 @@
 - [goone finds N+1 query in go](https://github.com/masibw/goone)
 - GitHub Actionsもあるので精度次第では採用
 - golangci-lint の一部だと嬉しいが・・・
+
+
+### Metrics for issues, pull requests, and discussions
+- [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
+- GitHub Actionsが書かれているのでいつでも試せる
