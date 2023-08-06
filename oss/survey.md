@@ -22,3 +22,7 @@
 ### Metrics for issues, pull requests, and discussions
 - [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
 - GitHub Actionsが書かれているのでいつでも試せる
+
+### fyne
+- [Cross platform GUI toolkit in Go inspired by Material Design](https://github.com/fyne-io/fyne)
+- 日本語対応かつコンパイルしやすいGUIで一番良さそう
