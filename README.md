@@ -23,7 +23,7 @@
   3. 目標志向
   4. 回復志向
   5. 慎重さ
-- 敬愛する人物: [David Neil Cutler](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%AB%E3%83%88%E3%83%A9%E3%83%BC), [岩田聡](https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%A1)
+- 敬愛する人物: [David Neil Cutler](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%AB%E3%83%88%E3%83%A9%E3%83%BC), [岩田聡](https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%A1) (実際に手を動かすリーダーがロールモデル) 
 
 ### 考え方
 以下の考え方は自分にだけ適用するものであり、家族含めて他人には強制しない。
