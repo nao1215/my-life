@@ -85,6 +85,7 @@
 
 |年|月| 免許・資格 |
 |:---|:---|:---|
+|2024|4|AWS Certified Developer - Associate (DVA-C02)取得|
 |2024|3|AWS Certified Solutions Architect – Associate(C03)取得|
 |2022|5|Linux技術者認定試験 LPICレベル3 303（Security）取得|
 |2017|7| TOEIC公開テスト スコア720点 取得|
