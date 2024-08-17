@@ -74,6 +74,7 @@
 ### その他
 - [仕事：経歴／資格／出版](./work/career.md)
 - [仕事：退職基準](./work/retirement.md)
+- [資産：投資（株）](./life/investment.md)
 - [日記：2024年](./diary/2024/README.md)
 - [記憶：人生で印象的な出来事](./diary/impact-events.md)
 - [家族向け：長男へ](./family/eldest-son.md)
