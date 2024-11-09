@@ -28,6 +28,8 @@
 
 |年|月| 出版 |
 |:---|:---|:---|
+|2024|11|[Software Design 2024年12月号 第1特集（第4章）](https://gihyo.jp/magazine/SD/archive/2024/202412)|
+|2024|10|[Software Design総集編【2018～2023】](https://gihyo.jp/book/2024/978-4-297-14471-5)|
 |2022|6|[Software Design 2022年6月号 第1特集（第3章）](https://gihyo.jp/magazine/SD/archive/2022/202206)|
 |2022|3|[ワンランク上を目指す人のためのPython実践活用ガイド（第5章、5-1, 5-2）](https://gihyo.jp/book/2022/978-4-297-12639-1)|
 |2021|12|[Software Design 2022年1月号 第2特集（第1章、第2章）](https://gihyo.jp/magazine/SD/archive/2022/202201)|
