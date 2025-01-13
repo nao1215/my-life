@@ -73,10 +73,12 @@
 - [ ] このチェックリストに全部チェックを入れる
 
 ### その他
+
+以下は適宜加筆していく。
+
 - [仕事：経歴／資格／出版](./work/career.md)
 - [仕事：退職基準](./work/retirement.md)
 - [資産：投資（株）](./plan/investment.md)
-- [日記：2024年](./diary/2024/README.md)
-- [記憶：人生で印象的な出来事](./diary/impact-events.md)
+- [日記：読書リスト](.diary/book/README.md)
 - [家族向け：長男へ](./family/eldest-son.md)
 - [家族向け：墓に入れたいもの](./family/grave.md)
