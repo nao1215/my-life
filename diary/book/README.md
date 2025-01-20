@@ -4,3 +4,4 @@
 - [ドメイン駆動設計 モデリング/実装ガイド](https://booth.pm/ja/items/1835632)
 - [ドメイン駆動設計 サンプルコード&FAQ](https://booth.pm/ja/items/3363104)
 - [分散システムデザインパターン―コンテナを使ったスケーラブルなサービスの設計](https://www.oreilly.co.jp//books/9784873118758/)
+- [図解即戦力 金融業界のしくみとビジネスがこれ1冊でしっかりわかる教科書](https://direct.gihyo.jp/view/item/000000003081)
