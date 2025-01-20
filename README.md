@@ -79,6 +79,6 @@
 - [仕事：経歴／資格／出版](./work/career.md)
 - [仕事：退職基準](./work/retirement.md)
 - [資産：投資（株）](./plan/investment.md)
-- [日記：読書リスト](.diary/book/README.md)
+- [日記：読書リスト](./diary/book/README.md)
 - [家族向け：長男へ](./family/eldest-son.md)
 - [家族向け：墓に入れたいもの](./family/grave.md)
