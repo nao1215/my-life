@@ -72,6 +72,10 @@
 - [ ] 安らかに自宅で逝く
 - [ ] このチェックリストに全部チェックを入れる
 
+### OSS Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nao1215/gup,nao1215/sqly,nao1215/markdown&type=Date)](https://star-history.com/#nao1215/gup&nao1215/sqly&nao1215/markdown&Date)
+
 ### その他
 
 以下は適宜加筆していく。
