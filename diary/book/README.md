@@ -9,3 +9,4 @@
 - [クリーンコードクックブック―コードの設計と品質を改善するためのレシピ集](https://www.oreilly.co.jp/books/9784814400973/)
 - [決済インフラ入門〈２０２５年版〉スマホ決済、デジタル通貨から銀行の新リテール戦略、次なる改革まで](https://www.kinokuniya.co.jp/f/dsg-01-9784492681473) ※ 途中から飛ばし読み
 - [敗者のゲーム （原著第８版）](https://www.kinokuniya.co.jp/f/dsg-01-9784532359119)
+- [JUST KEEP BUYING 自動的に富が増え続ける「お金」と「時間」の法則](https://www.diamond.co.jp/book/9784478116982.html)
