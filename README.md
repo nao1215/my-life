@@ -76,7 +76,8 @@
 
 ### OSS Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nao1215/gup,nao1215/sqly,nao1215/markdown&type=Date)](https://star-history.com/#nao1215/gup&nao1215/sqly&nao1215/markdown&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nao1215/gup,nao1215/sqly,nao1215/markdown,nao1215/sqluv&type=Date)](https://www.star-history.com/#nao1215/gup&nao1215/sqly&nao1215/markdown&nao1215/sqluv&Date)
+
 
 ### その他
 
