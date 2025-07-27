@@ -18,7 +18,7 @@ jobs:
         run: |
           mkdir dist
           pandoc public/index.md -s -o dist/index.html \
-            --metadata title="My New Diary"
+            --metadata title="nao1215（nchika）の日記"
           cp public/*.png dist/ || true
 
       - name: Deploy to GitHub Pages
