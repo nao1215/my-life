@@ -20,6 +20,7 @@ jobs:
           pandoc public/index.md -s -o dist/index.html \
             --metadata title="nao1215（nchika）の日記"
           cp public/*.png dist/ || true
+          cp public/*.gif dist/ || true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
