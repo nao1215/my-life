@@ -14,14 +14,13 @@ jobs:
       - name: Install pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
-       - name: Convert Markdown to HTML
-       run: |
-         mkdir dist
-         pandoc public/index.md -s -c style.css -o dist/index.html \
-           --metadata title="nao1215（nchika）の日記"
-           cp public/*.png dist/ || true
-           cp public/*.gif dist/ || true
-           cp public/style.css dist/
+      - name: Convert Markdown to HTML
+        run: |
+          mkdir dist
+          pandoc public/index.md -s -c style.css -o dist/index.html --metadata title="nao1215（nchika）の日記"
+          cp public/*.png dist/ || true
+          cp public/*.gif dist/ || true
+          cp public/style.css dist/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
