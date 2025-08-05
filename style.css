@@ -1,8 +1,8 @@
 body {
-    font-family: "Helvetica", sans-serif;
-    line-height: 1.6;
-    background-color: #fdf6e3;
-    color: #333;
+    font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+    line-height: 1.7;
+    background-color: #1e1e2f;
+    color: #e0e0f0;
     max-width: 800px;
     margin: 40px auto;
     padding: 0 20px;
@@ -11,11 +11,31 @@ body {
 h1,
 h2,
 h3 {
-    color: #2e6c80;
+    color: #82aaff;
+    border-bottom: 1px solid #444;
+    padding-bottom: 0.3em;
+}
+
+a {
+    color: #89ddff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+code {
+    background-color: #2c2c3c;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-family: "Fira Code", monospace;
 }
 
 img {
     max-width: 100%;
     display: block;
     margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
 }
