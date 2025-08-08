@@ -3,6 +3,10 @@
 
 私の日記とOSS活動、家族をサポートする方法：[GitHub Sponsors](https://github.com/sponsors/nao1215)
 
+## 2025年8月8日
+
+嫁が12時間寝ても起き上がってこない。疲労で無理らしい。
+
 ## 2025年8月7日
 
 [SNOW言語](https://github.com/nao1215/snow-toolchain)の初版ができた。[標準ライブラリ](https://github.com/nao1215/snow)は、Print関数しかない。技術ブログで[「夏休みの自由研究として自作プログラミング言語をClaudeでVibe Codingした話」](https://debimate.jp/2025/08/07/%e5%a4%8f%e4%bc%91%e3%81%bf%e3%81%ae%e8%87%aa%e7%94%b1%e7%a0%94%e7%a9%b6%e3%81%a7%e8%87%aa%e4%bd%9c%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e8%a8%80%e8%aa%9e%e3%82%92claude/)として感想文を書いたが、OCaml版のToolchainは捨てる。ClaudeでVibe Codingした結果、ゴミの山を作り上げてしまった。内部品質の低いコードの塊だ。品質を担保できるGolangで書き直す。今回は、成果物を捨てることになったが、Vibe Codingに関する経験を大きく詰めたのが収穫だった。
