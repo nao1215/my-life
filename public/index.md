@@ -1,6 +1,9 @@
 
 # 2025年
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://nao1215.github.io/my-life/&count_bg=%23007ACC&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visits">
+
+
 私の日記とOSS活動、家族をサポートする方法：[GitHub Sponsors](https://github.com/sponsors/nao1215)
 
 ## 2025年8月10日
