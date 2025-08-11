@@ -1,7 +1,8 @@
 
 # 2025年
 
-私の日記とOSS活動、家族をサポートする方法：[GitHub Sponsors](https://github.com/sponsors/nao1215)
+- 私の日記とOSS活動、家族をサポートする方法：[GitHub Sponsors](https://github.com/sponsors/nao1215)
+- [Bucket List（死ぬまでにやりたいこと）](https://github.com/nao1215/my-life?tab=readme-ov-file#bucket-list-%E6%AD%BB%E3%81%AC%E3%81%BE%E3%81%A7%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8)
 
 ## 2025年8月11日
 
